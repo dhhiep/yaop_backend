@@ -1,24 +1,7 @@
-# README
+# Youtube Audio Offline Player (YAOP)
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
-
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+## I. 3rd party credentials
+#### 1. Youtube API Key
+```
+https://github.com/Fullscreen/yt%23configuring-your-app
+```
